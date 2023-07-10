@@ -1,9 +1,11 @@
 {
   "name": "platzi-intro-react-base",
   "version": "0.1.0",
+  "homepage": "C:Users/Yared/Documents/Projects/curso-react-intro/build/index.html",
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
+    "react-icons": "^4.10.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
